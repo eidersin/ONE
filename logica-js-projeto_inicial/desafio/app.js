@@ -1,4 +1,4 @@
-// ------------   3. Criar uma função que exibe "Olá, mundo!" no console.
+// ------------   1. Criar uma função que exibe "Olá, mundo!" no console.
 // function exibirOla() {
 //     console.log("Olá, mundo!");
 //   }
@@ -132,3 +132,20 @@
 // }
 // let numero = 7;
 // mostrarTabuada(numero);
+
+
+
+// ------------   13. Crie uma lista vazia, com o nome listaGenerica.
+// let listaGenerica = [];
+
+
+
+// ------------   14. Crie uma lista de linguagens de programação chamada linguagensDeProgramacao com os seguintes elementos: 'JavaScript','C','C++', 'Kotlin' e 'Python'.
+// let linguagensDeProgramacao = ['JavaScript','C','C++','Kotlin','Python'];
+
+
+
+// ------------   15. Adicione à lista linguagensDeProgramacao os seguintes elementos: 'Java', 'Ruby' e 'GoLang'.
+// let linguagensDeProgramacao = ['JavaScript','C','C++','Kotlin','Python'];
+// linguagensDeProgramacao.push('Java', 'Ruby','GoLang');
+// console.log(linguagensDeProgramacao[linguagensDeProgramacao.length -1])
